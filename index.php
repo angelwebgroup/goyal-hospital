@@ -1,5 +1,5 @@
 <?php
-$page_title = "Goyal Robotic Hospital – Premium Robotic Joint Replacement & Trauma Centre";
+$page_title = "Goyal Robotic Hospital | Premium Robotic Joint Replacement & Trauma Centre";
 $active_page = "home";
 include 'includes/header.php';
 ?>
