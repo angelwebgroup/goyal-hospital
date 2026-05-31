@@ -62,7 +62,7 @@
   </div>
   
   <div class="footer-bottom">
-    <p>&copy; <?php echo date("Y"); ?> Goyal Robotic Hospital. All Rights Reserved. Designed in Core PHP.</p>
+    <p>&copy; <?php echo date("Y"); ?> Goyal Robotic Hospital. All Rights Reserved. Designed by <a href="https://angelwebgroup.in" style="color:var(--teal); font-weight:700;">Angel Web Group</a></p>
     <div class="footer-bottom-links">
       <a href="#">Privacy Policy</a>
       <a href="#">Terms &amp; Conditions</a>
