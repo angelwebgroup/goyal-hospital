@@ -106,7 +106,7 @@ include 'includes/header.php';
   <div style="max-width: 700px; margin: 0 auto;">
     <h3 style="font-family:'Playfair Display',serif; font-size: 28px; margin-bottom:12px; color: var(--navy);"><i class="fa-solid fa-truck-medical" style="color:var(--red);"></i> Need Immediate Emergency Orthopaedic Care?</h3>
     <p style="color: var(--gray); font-size: 15px; margin-bottom: 24px;">Our specialized trauma unit, diagnostic pathology lab, and modular operating theatres are fully functional 24 hours a day, 7 days a week.</p>
-    <a href="tel:+919876543210" class="btn-primary" style="background:var(--red); box-shadow: 0 4px 15px rgba(255, 59, 48, 0.3); font-size: 15px; font-weight:700;"><i class="fa-solid fa-phone"></i> Call Trauma Team: +91-9876543210</a>
+    <a href="tel:+917900299245" class="btn-primary" style="background:var(--red); box-shadow: 0 4px 15px rgba(255, 59, 48, 0.3); font-size: 15px; font-weight:700;"><i class="fa-solid fa-phone"></i> Call Trauma Team: +91-7900299245</a>
   </div>
 </section>
 

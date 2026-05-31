@@ -1,7 +1,7 @@
 <?php
 /**
  * Form Processor and Email Transmission Script
- * Sanitizes input fields, validates formatting, and sends HTML lead notifications to angelwebgroup@gmail.com
+ * Sanitizes input fields, validates formatting, and sends HTML lead notifications to goyalhospital.kosi@gmail.com
  */
 
 // Include header for visual confirmation layout
@@ -55,7 +55,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         ];
 
         // 3. PREPARE HTML EMAIL
-        $to = "angelwebgroup@gmail.com";
+        $to = "goyalhospital.kosi@gmail.com";
         $subject = "New Appointment Lead: " . $sanitized_data['name'] . " - " . $sanitized_data['service'];
         
         // HTML Email Body
@@ -129,7 +129,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         // 4. EMAIL HEADERS
         $headers = "MIME-Version: 1.0" . "\r\n";
         $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
-        $headers .= "From: Goyal Robotic Hospital <no-reply@goyalrobotichospital.com>" . "\r\n";
+        $headers .= "From: Goyal Robotic Hospital <goyalhospital.kosi@gmail.com>" . "\r\n";
         if (!empty($email)) {
             $headers .= "Reply-To: " . $email . "\r\n";
         }
@@ -163,7 +163,7 @@ include 'includes/header.php';
         <i class="fa-solid fa-circle-check"></i>
       </div>
       <h3>Request Submitted!</h3>
-      <p>Thank you, <strong><?php echo htmlspecialchars($sanitized_data['name']); ?></strong>. Your appointment request has been recorded and safely transmitted to our clinical desk at <strong>angelwebgroup@gmail.com</strong>.</p>
+      <p>Thank you, <strong><?php echo htmlspecialchars($sanitized_data['name']); ?></strong>. Your appointment request has been recorded and safely transmitted to our clinical desk at <strong>goyalhospital.kosi@gmail.com</strong>.</p>
       
       <div style="background: var(--offwhite); border: 1px solid var(--light); border-radius:12px; padding:20px; text-align:left; margin-bottom:30px; font-size:13.5px; color:var(--navy);">
         <strong style="display:block; margin-bottom:10px; border-bottom:1px solid var(--light); padding-bottom:6px; color:var(--blue);"><i class="fa-solid fa-id-card-clip"></i> Lead Summary:</strong>

@@ -62,18 +62,18 @@ if (!function_exists('get_doctor_image')) {
 
   <!-- EMERGENCY BAND -->
   <!-- <div class="emergency-band">
-    <span>🚨</span> <strong>24/7 Trauma &amp; Emergency Helpline:</strong> <a href="tel:+919876543210">+91-9876543210</a>
+    <span>🚨</span> <strong>24/7 Trauma &amp; Emergency Helpline:</strong> <a href="tel:+917900299245">+91-7900299245</a>
   </div> -->
 
   <!-- TOPBAR -->
   <div class="topbar">
     <div class="topbar-info">
-      <span><i class="fa-solid fa-location-dot"></i> Near Bus Stand, Main Road, Goyal Hospital</span>
+      <span><i class="fa-solid fa-location-dot"></i> Thana Road, Infront of Nagar Palika, Kosi Kalan, Chhata (Mathura)</span>
       <span><i class="fa-solid fa-clock"></i> Mon – Sat: 9:00 AM – 8:00 PM</span>
     </div>
     <div>
-      <a href="tel:+919876543210"><i class="fa-solid fa-phone"></i> +91-9876543210</a>
-      <a href="mailto:info@goyalrobotichospital.com" style="margin-left: 14px;"><i class="fa-solid fa-envelope"></i> info@goyalrobotichospital.com</a>
+      <a href="tel:+917900299245"><i class="fa-solid fa-phone"></i> +91-7900299245</a>
+      <a href="mailto:goyalhospital.kosi@gmail.com" style="margin-left: 14px;"><i class="fa-solid fa-envelope"></i> goyalhospital.kosi@gmail.com</a>
     </div>
   </div>
 

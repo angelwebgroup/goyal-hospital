@@ -19,6 +19,7 @@ include 'includes/header.php';
   </div>
 
   <!-- Hero Visual Image Block -->
+   
   <div class="hero-visual">
     <div class="hero-visual-inner">
       <div class="scan-container" style="width: 100%; height: 100%;">
@@ -649,21 +650,21 @@ include 'includes/header.php';
         <div class="contact-item-icon"><i class="fa-solid fa-location-dot"></i></div>
         <div class="contact-item-text">
           <strong>Hospital Address</strong>
-          <span>Near Bus Stand, Main Road, Goyal Robotic Hospital, Dist.</span>
+          <span>Thana Road, Infront of Nagar Palika, Kosi Kalan, Chhata (Mathura)</span>
         </div>
       </div>
       <div class="contact-item">
         <div class="contact-item-icon"><i class="fa-solid fa-phone-volume"></i></div>
         <div class="contact-item-text">
           <strong>Phone &amp; WhatsApp Support</strong>
-          <span>+91-9876543210</span>
+          <span>+91-7900299245</span>
         </div>
       </div>
       <div class="contact-item">
         <div class="contact-item-icon"><i class="fa-solid fa-envelope"></i></div>
         <div class="contact-item-text">
           <strong>Clinical Email Contact</strong>
-          <span>info@goyalrobotichospital.com</span>
+          <span>goyalhospital.kosi@gmail.com</span>
         </div>
       </div>
     </div>

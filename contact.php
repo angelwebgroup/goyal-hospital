@@ -29,7 +29,7 @@ include 'includes/header.php';
             <div class="contact-item-icon" style="background:rgba(12, 90, 222, 0.08); color:var(--blue);"><i class="fa-solid fa-location-dot"></i></div>
             <div class="contact-item-text">
               <strong style="color:var(--navy);">Hospital Address</strong>
-              <span style="color:var(--gray);">Near Bus Stand, Main Road, Goyal Robotic Hospital, Dist.</span>
+              <span style="color:var(--gray);">Thana Road, Infront of Nagar Palika, Kosi Kalan, Chhata (Mathura)</span>
             </div>
           </div>
           
@@ -38,7 +38,7 @@ include 'includes/header.php';
             <div class="contact-item-icon" style="background:rgba(255, 59, 48, 0.08); color:var(--red);"><i class="fa-solid fa-phone-volume"></i></div>
             <div class="contact-item-text">
               <strong style="color:var(--navy);">24/7 Emergency Trauma Helpline</strong>
-              <span style="color:var(--red); font-weight:700;"><a href="tel:+919876543210" style="color:var(--red); text-decoration:none;">+91-9876543210</a></span>
+              <span style="color:var(--red); font-weight:700;"><a href="tel:+917900299245" style="color:var(--red); text-decoration:none;">+91-7900299245</a></span>
             </div>
           </div>
 
@@ -47,7 +47,7 @@ include 'includes/header.php';
             <div class="contact-item-icon" style="background:rgba(0, 235, 212, 0.08); color:var(--teal);"><i class="fa-brands fa-whatsapp"></i></div>
             <div class="contact-item-text">
               <strong style="color:var(--navy);">OPD Bookings (WhatsApp)</strong>
-              <span style="color:var(--gray);"><a href="https://wa.me/919876543210" target="_blank" style="color:var(--blue); text-decoration:none; font-weight:600;">+91-9876543210</a></span>
+              <span style="color:var(--gray);"><a href="https://wa.me/917900299245" target="_blank" style="color:var(--blue); text-decoration:none; font-weight:600;">+91-7900299245</a></span>
             </div>
           </div>
 
@@ -56,7 +56,7 @@ include 'includes/header.php';
             <div class="contact-item-icon" style="background:rgba(12, 90, 222, 0.08); color:var(--blue);"><i class="fa-solid fa-envelope"></i></div>
             <div class="contact-item-text">
               <strong style="color:var(--navy);">Official Clinical Email</strong>
-              <span style="color:var(--gray);"><a href="mailto:info@goyalrobotichospital.com" style="color:var(--blue); text-decoration:none;">info@goyalrobotichospital.com</a></span>
+              <span style="color:var(--gray);"><a href="mailto:goyalhospital.kosi@gmail.com" style="color:var(--blue); text-decoration:none;">goyalhospital.kosi@gmail.com</a></span>
             </div>
           </div>
         </div>
@@ -91,7 +91,7 @@ include 'includes/header.php';
     <!-- Booking Form -->
     <div class="contact-form" style="box-shadow: 0 15px 40px rgba(6, 18, 36, 0.05); border: 1px solid var(--light);">
       <h3 style="font-family:'Playfair Display',serif; font-size:26px; margin-bottom:12px; color:var(--navy);">Schedule a Consultation</h3>
-      <p style="color:var(--gray); font-size:14px; margin-bottom:28px; line-height:1.6;">Fill out the form completely. Submissions are securely processed and immediately emailed to our hospital’s administrative desk at <strong>angelwebgroup@gmail.com</strong>.</p>
+      <p style="color:var(--gray); font-size:14px; margin-bottom:28px; line-height:1.6;">Fill out the form completely. Submissions are securely processed and immediately emailed to our hospital’s administrative desk at <strong>goyalhospital.kosi@gmail.com</strong>.</p>
       
       <form action="send_email.php" method="POST" id="appointmentForm">
         <div class="form-row">
